@@ -1,0 +1,14 @@
+{
+    "Users": [
+        {
+            "name": "Mitchel Stunt",
+            "email": "stunt@mitchal.com",
+            "password": "$2b$08$keRwt.ucOA684Y9LtD3J7euV/rL9Id5elWQwMM9DVZnjWFBZWGIlC",
+            "preferences": [
+                "movies",
+                "comics",
+                "games"
+            ]
+        }
+    ]
+}
